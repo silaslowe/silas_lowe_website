@@ -197,6 +197,7 @@ i {
 
   .title-decoration-container {
     visibility: hidden;
+    height: 0px;
   }
   .col-2 {
     width: 2%;
